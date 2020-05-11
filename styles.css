@@ -33,7 +33,7 @@
 				color: #fff;
 				text-align: center;
 				padding: 12px 16px;
-				font-size: 24px;
+				font-size: 14px;
 				font-weight: bold;
 
 			}
@@ -392,6 +392,7 @@
 			@media screen and (max-width: 1010px) {
 				.topnav a{
 					display: none;
+					font-size: 24px;
 				}
 				.topnav a.icon{
 					float: right;
